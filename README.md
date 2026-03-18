@@ -197,7 +197,7 @@ To move this solution into a production environment:
 ## Author
 
 Alessandra Gonçalves  
-Data Science Student  
+Data Science   
 
 LinkedIn: https://www.linkedin.com/in/alessandra-souza-gonçalves-271750269  
 GitHub: https://github.com/alessandrasgoncalves23  
